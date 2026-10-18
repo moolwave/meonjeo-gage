@@ -1,0 +1,9 @@
+# 빌드 결과물
+/meonjeo
+/meonjeo.exe
+# 수집 데이터와 엑셀 결과 (고객 데이터는 저장소에 올리지 않음)
+/data/
+*.xlsx
+# 비밀 정보
+.env
+*.key
